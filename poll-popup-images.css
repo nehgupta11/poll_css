@@ -465,6 +465,7 @@
 }
 #poll-v2 > div.container > div > p.success-message.ng-binding {
   display: flex !important;
+  margin-left: 15px !important;
 }
 #poll-v2 > div.container > div > p.success-message.ng-scope {
   margin-top: 20px !important;
